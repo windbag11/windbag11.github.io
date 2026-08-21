@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>windbag</title>
-		<link>https://windbag11.github.io/</link>
+		<link>http://localhost:1313/</link>
 		<description>Recent content on windbag</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -16,12 +16,12 @@
 		
 			<lastBuildDate>Fri, 21 Aug 2026 12:39:19 +0200</lastBuildDate>
 		
-			<atom:link href="https://windbag11.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>välkommen!</title>
-				<link>https://windbag11.github.io/posts/valkommen/</link>
+				<link>http://localhost:1313/posts/valkommen/</link>
 				<pubDate>Fri, 21 Aug 2026 12:39:19 +0200</pubDate><author>your.email@example.com (Your Name)</author>
-				<guid>https://windbag11.github.io/posts/valkommen/</guid>
+				<guid>http://localhost:1313/posts/valkommen/</guid>
 				<description>&lt;p&gt;It took blood, sweat and tears to bring these words to your screen today. Almost eight hours of grappling with Hugo, watching a two hour youtube video about what github actually does, building this site three whole times because something or the other would go wrong and I had figured that restarting was probably quicker than trying to weed out what went wrong when I have no idea what html or css are. The tutorial that called itself &amp;lsquo;How to build a blog in ten minutes using Hugo and Github&amp;rsquo; did not include in its instructions restarting three full times, nor did the guy have to tearfully plead with AI to fix this mess (not something I&amp;rsquo;m proud of), but, nevertheless, we got here.&lt;/p&gt;</description>
 			</item>
 	</channel>
