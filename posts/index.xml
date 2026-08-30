@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on windbag</title>
-		<link>http://localhost:49913/posts/</link>
+		<link>http://localhost:54038/posts/</link>
 		<description>Recent content in Posts on windbag</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -14,14 +14,21 @@
 		
 		
 		
-			<lastBuildDate>Fri, 21 Aug 2026 12:39:19 +0200</lastBuildDate>
+			<lastBuildDate>Sat, 29 Aug 2026 18:13:46 +0200</lastBuildDate>
 		
-			<atom:link href="http://localhost:49913/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:54038/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>observations from the riviera</title>
+				<link>http://localhost:54038/posts/29-08-26-nice/</link>
+				<pubDate>Sat, 29 Aug 2026 18:13:46 +0200</pubDate><author>your.email@example.com (Your Name)</author>
+				<guid>http://localhost:54038/posts/29-08-26-nice/</guid>
+				<description>&lt;p&gt;The last three weeks I spent in the south of France were calm and pleasant, yet monotone to say the least. I remember my first impressions of the South of France when I had visited Marseilles three or four years ago and that really shocked me. It was such a bustling, immensely beautiful city and it had shattered the notions that I had of such a Western European country like France. In my mind, countries like France, Belgium, the Netherlands, also Sweden had been places that were the polar opposite to the chaos I was used to in India. Clean, structured streets with picturesquely designed and placed buildings as opposed to the sheer havoc that was each road and neighborhood in Chennai, the smell of earth and smoke and mullapoo (jasmine) garlands and the constant drill of autorickshaws or a lorry driver&amp;rsquo;s proud announcement of his presence through his lorry&amp;rsquo;s melodious, deafening horn, as opposed to quaint, quiet streets where raising your voice would garner people&amp;rsquo;s stares. And I say this with all my love for India and how it feels like home, but the difference could not be more stark. But Marseilles had weirdly reminded me of India. It was loud, dirty, stunning and so communal. The latter and the resemblance to India I had felt before when I had visited Spain, but to me, Spain was different fundamentally to its Western counterparts. And then I went to Nice.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>välkommen!</title>
-				<link>http://localhost:49913/posts/valkommen/</link>
+				<link>http://localhost:54038/posts/valkommen/</link>
 				<pubDate>Fri, 21 Aug 2026 12:39:19 +0200</pubDate><author>your.email@example.com (Your Name)</author>
-				<guid>http://localhost:49913/posts/valkommen/</guid>
+				<guid>http://localhost:54038/posts/valkommen/</guid>
 				<description>&lt;p&gt;It took blood, sweat and tears to bring these words to your screen today. Almost eight hours of grappling with Hugo, watching a two hour youtube video about what github actually does, building this site three whole times because something or the other would go wrong and I had figured that restarting was probably quicker than trying to weed out what went wrong when I have no idea what html or css are. The tutorial that called itself &amp;lsquo;How to build a blog in ten minutes using Hugo and Github&amp;rsquo; did not include in its instructions restarting three full times, nor did the guy have to tearfully plead with AI to fix this mess (not something I&amp;rsquo;m proud of), but, nevertheless, we got here.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:49913/posts/</loc>
+    <loc>http://localhost:54038/posts/29-08-26-nice/</loc>
+    <lastmod>2026-08-29T18:13:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54038/posts/</loc>
+    <lastmod>2026-08-29T18:13:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54038/</loc>
+    <lastmod>2026-08-29T18:13:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54038/posts/valkommen/</loc>
     <lastmod>2026-08-21T12:39:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49913/posts/valkommen/</loc>
-    <lastmod>2026-08-21T12:39:19+02:00</lastmod>
+    <loc>http://localhost:54038/categories/</loc>
   </url><url>
-    <loc>http://localhost:49913/</loc>
-    <lastmod>2026-08-21T12:39:19+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:49913/categories/</loc>
-  </url><url>
-    <loc>http://localhost:49913/tags/</loc>
+    <loc>http://localhost:54038/tags/</loc>
   </url>
 </urlset>
