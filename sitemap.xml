@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://windbag11.github.io/about/</loc>
+    <lastmod>2026-11-23T22:31:03+01:00</lastmod>
+  </url><url>
+    <loc>https://windbag11.github.io/</loc>
+    <lastmod>2026-11-23T22:31:03+01:00</lastmod>
+  </url><url>
     <loc>https://windbag11.github.io/posts/on_impostor_syndrome_23-11-2026/</loc>
     <lastmod>2026-11-23T20:41:11+01:00</lastmod>
   </url><url>
     <loc>https://windbag11.github.io/posts/</loc>
-    <lastmod>2026-11-23T20:41:11+01:00</lastmod>
-  </url><url>
-    <loc>https://windbag11.github.io/</loc>
     <lastmod>2026-11-23T20:41:11+01:00</lastmod>
   </url><url>
     <loc>https://windbag11.github.io/posts/atop-the-hot-air-balloon-21-11-26/</loc>

@@ -14,9 +14,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 23 Nov 2026 20:41:11 +0100</lastBuildDate>
+			<lastBuildDate>Mon, 23 Nov 2026 22:31:03 +0100</lastBuildDate>
 		
 			<atom:link href="https://windbag11.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>https://windbag11.github.io/about/</link>
+				<pubDate>Mon, 23 Nov 2026 22:31:03 +0100</pubDate><author>your.email@example.com (Your Name)</author>
+				<guid>https://windbag11.github.io/about/</guid>
+				<description>&lt;p&gt;a space for me to coherently organise my ramblings into cohesively packaged little blog pages to give future me and possibly other readers an insight to how I thought back then. hopefully at some point in the future this website will reflect my true artistic vision and opening each page will generate a feeling of pride and fulfillment and not a shudder, but until then, this is it. enjoy!&lt;/p&gt;&#xA;&lt;p&gt;p.s. I write using very long run-on, borderline incomprehensible sentences, and I&amp;rsquo;m well aware, and I refuse to stop. enjoy!&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>on impostor syndrome</title>
 				<link>https://windbag11.github.io/posts/on_impostor_syndrome_23-11-2026/</link>
